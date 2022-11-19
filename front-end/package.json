@@ -15,7 +15,7 @@
     "react-gesture-responder": "^2.1.0",
     "react-items-carousel": "^2.3.7",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "react-scrollable-anchor": "^0.6.1"
   },
   "scripts": {
